@@ -1,7 +1,5 @@
-nno
-
-iam talking about this :
 📧 Email Spam Classifier using Trie and IMAP
+
 This project is a Python-based spam email classifier that connects to a Gmail inbox using IMAP and classifies emails as Spam or Ham (not spam) using a Trie data structure for keyword detection.
 
 🚀 Features
